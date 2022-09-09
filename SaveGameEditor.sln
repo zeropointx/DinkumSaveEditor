@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveGameEditor", "SaveGameEditor\SaveGameEditor.csproj", "{0439157D-92AC-4130-8647-F9433B53880E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0439157D-92AC-4130-8647-F9433B53880E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0439157D-92AC-4130-8647-F9433B53880E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0439157D-92AC-4130-8647-F9433B53880E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0439157D-92AC-4130-8647-F9433B53880E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B992585-F718-4268-8BC4-10963A885D48}
+	EndGlobalSection
+EndGlobal
